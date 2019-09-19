@@ -139,4 +139,5 @@ Want to add even more code and fun styles to your GitHub Pages website? [Follow 
 
 Getting started is the hardest part. If there’s anything you’d like to know as you get started with GitHub, try searching [GitHub Help](https://help.github.com). Our documentation has tutorials on everything from changing your repository settings to configuring GitHub from your command line.
 A   l i n e   I   w r o t e   o n   m y   l o c a l   c o m p u t e r  
+ a d d i n g   a   l i n e  
  
